@@ -1,0 +1,27 @@
+# Data Manipulation & Core Utilities
+pandas
+numpy
+scipy
+openpyxl
+tqdm
+joblib
+
+# Natural Language Processing & Feature Extraction
+language-tool-python
+sentence-transformers
+jiwer
+textstat
+
+# Machine Learning & Deep Learning
+scikit-learn
+xgboost
+torch
+transformers
+
+# Explainable AI (XAI) & Visualization
+shap
+matplotlib
+seaborn
+
+# Generative AI & Large Language Models
+google-generativeai
