@@ -75,13 +75,13 @@ If you utilize the BSSD dataset or this Hybrid BERT methodology in your research
 
 ```bibtex
 @dataset{rahaman_uddin_bssd_2026,
-  author       = {Rahaman, Tareq and Uddin, Helal},
-  title        = {{Automated Essay Scoring for English Essays of Bangladeshi Secondary Students (BSSD)}},
+  author       = {Rahaman, Tareq and Uddin, Helal and Iqbal, {MD. Ishtiaq}},
+  title        = {{Auditing Halo Effect Bias in Cross-Domain Automated Essay Scoring: A SHAP-Driven Evaluation of Domain-Adapted BERT for Bangladeshi Secondary Students(BSSD)}},
   month        = oct,
   year         = 2026,
   publisher    = {Zenodo},
   version      = {1.0.0},
-  doi          = {10.5281/zenodo.23924760.svg},
+  doi          = {10.5281/zenodo.23924760},
   url          = {https://doi.org/10.5281/zenodo.23924760}
 }
 ```
