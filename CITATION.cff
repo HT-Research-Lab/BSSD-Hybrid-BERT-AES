@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "BSSD: Bangladeshi Secondary Student Essay Dataset and Warm-Start Hybrid BERT for Automated Essay Scoring"
+version: 1.0.0
+type: dataset
+doi: 10.5281/zenodo.23924761
+date-released: 2026-11-03
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/HT-Research-Lab/BSSD-Hybrid-BERT-AES"
+
+authors:
+  - family-names: Rahaman
+    given-names: Tareq
+    affiliation: "Department of Computer Science and Engineering, Cox's Bazar International University"
+    orcid: "https://orcid.org/0009-0008-7735-3898"
+
+  - family-names: Uddin
+    given-names: Helal
+    affiliation: "Department of Computer Science and Engineering, Cox's Bazar International University"
+    orcid: "https://orcid.org/0009-0003-7380-6064"
+
+  - family-names: Iqbal
+    given-names: "MD. Ishtiaq"
+    affiliation: "Department of Computer Science and Engineering, Cox's Bazar International University"
+    orcid: "https://orcid.org/0000-0002-8375-1525"
